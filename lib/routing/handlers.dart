@@ -1,10 +1,10 @@
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
-import 'package:sales/screens/about.dart';
-import 'package:sales/screens/index.dart';
-import 'package:sales/screens/login.dart';
-import 'package:sales/screens/settings.dart';
-import 'package:sales/screens/splash.dart';
+import 'package:cashier/screens/about.dart';
+import 'package:cashier/screens/index.dart';
+import 'package:cashier/screens/login.dart';
+import 'package:cashier/screens/settings.dart';
+import 'package:cashier/screens/splash.dart';
 // Screens
 
 var splashHandler = new Handler(

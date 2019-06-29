@@ -1,4 +1,4 @@
-package club.remontada.sales;
+package club.remontada.cashier;
 
 import android.os.Bundle;
 

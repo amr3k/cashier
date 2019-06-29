@@ -1,5 +1,5 @@
-name: sales
-description: Sales
+name: cashier
+description: Remontada cashier
 version: 1.0.0+1
 
 environment:

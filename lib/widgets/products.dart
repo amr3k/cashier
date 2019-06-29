@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:sales/app.dart';
+import 'package:cashier/app.dart';
 
 class ProductCard extends StatefulWidget {
   final String documentID;

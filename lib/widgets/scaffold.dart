@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sales/app.dart';
-import 'package:sales/widgets/search.dart';
-import 'package:sales/widgets/sideDrawer.dart';
+import 'package:cashier/app.dart';
+import 'package:cashier/widgets/search.dart';
+import 'package:cashier/widgets/sideDrawer.dart';
 
 class CustomScaffold extends StatefulWidget {
   final Widget body;

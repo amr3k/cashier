@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:sales/app.dart';
-import 'package:sales/utils/validators.dart';
-import 'package:sales/widgets/scaffold.dart';
+import 'package:cashier/app.dart';
+import 'package:cashier/utils/validators.dart';
+import 'package:cashier/widgets/scaffold.dart';
 
 class LoginPage extends StatefulWidget {
   @override

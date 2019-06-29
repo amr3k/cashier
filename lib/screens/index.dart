@@ -3,8 +3,8 @@ import 'dart:async';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:sales/app.dart';
-import 'package:sales/widgets/scaffold.dart';
+import 'package:cashier/app.dart';
+import 'package:cashier/widgets/scaffold.dart';
 
 class Index extends StatefulWidget {
   /* This is the main page which contains top deals, best selling products...etc

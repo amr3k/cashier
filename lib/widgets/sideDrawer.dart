@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sales/app.dart';
+import 'package:cashier/app.dart';
 
 class SideDrawer extends StatelessWidget {
   @override

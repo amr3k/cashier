@@ -1,6 +1,6 @@
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
-import 'package:sales/routing/handlers.dart';
+import 'package:cashier/routing/handlers.dart';
 
 class Routes {
   static String splash = "/splash";

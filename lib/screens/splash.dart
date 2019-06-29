@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:sales/services/auth.dart';
-import 'package:sales/services/location.dart';
-import 'package:sales/widgets/dialog.dart';
-import 'package:sales/app.dart';
+import 'package:cashier/services/auth.dart';
+import 'package:cashier/services/location.dart';
+import 'package:cashier/widgets/dialog.dart';
+import 'package:cashier/app.dart';
 
 class SplashScreen extends StatefulWidget {
   @override

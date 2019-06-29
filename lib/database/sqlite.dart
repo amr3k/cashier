@@ -5,7 +5,7 @@ import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';
 
 import 'package:sqflite/sqflite.dart';
-import 'package:sales/database/models/favouritesModel.dart';
+import 'package:cashier/database/models/favouritesModel.dart';
 
 class DBHelper {
   static Database _db;

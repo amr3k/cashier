@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sales/widgets/scaffold.dart';
+import 'package:cashier/widgets/scaffold.dart';
 
 class AboutPage extends StatefulWidget {
   @override
